@@ -1,4 +1,4 @@
-# EDGE-DETECTION
+# EXP 6 EDGE DETECTION
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
@@ -25,9 +25,10 @@ Using Laplacian operator from cv2,detect the edges of the image and Using Canny 
 
 ## Program:
 ### IMPORT PACKAGES AND LOAD IMAGES:
-#### DEVELOPED BY: KOWSALYA M
-#### REGISTER NUMBER: 212222230069
 ```
+DEVELOPED BY: KOWSALYA M
+REGISTER NUMBER: 212222230069
+
 import cv2
 import matplotlib.pyplot as plt
 
@@ -82,15 +83,12 @@ plt.show()
 ![mountain](https://github.com/user-attachments/assets/90af4cd5-c239-46f0-a1b8-3a9afcfa613c)
 
 ### SOBEL EDGE DETECTOR
-i) SOBEL X:
 
 ![image](https://github.com/user-attachments/assets/63c91835-ed98-4a57-a01a-867d4c1adcff)
 
-ii) SOBEL Y:
 
 ![image](https://github.com/user-attachments/assets/c8b78c17-75a5-4490-9a17-001516334396)
 
-iii) SOBEL XY:
 
 ![image](https://github.com/user-attachments/assets/ca24cedc-0645-48b5-a6f8-ede6b376d3da)
 
